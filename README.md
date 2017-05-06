@@ -3,7 +3,7 @@ singer-io tap for generating fake users for test purposes
 
 ### Why does this exist?
 
-I wanted to see if I could write a singer-io tap in javascript and generating a bunch of fake users seemed like an easy first attempt. It probably won't be usefulf for anyone, but don't use it to inflate your app's MAU like on Silicon Valley.
+I wanted to see if I could write a singer-io tap in javascript and generating a bunch of fake users seemed like an easy first attempt. It probably won't be useful for anyone, but don't use it to inflate your app's MAU like on Silicon Valley.
 
 ### Installation
 
