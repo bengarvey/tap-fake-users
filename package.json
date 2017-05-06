@@ -1,0 +1,23 @@
+{
+  "name": "tap-fake-users",
+  "version": "1.0.0",1
+  "description": "Singer.io tap for generating fake user data. For test purposes only!",
+  "main": "tap-fake-users.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node tap-fake-users.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengarvey/tap-fake-users.git"
+  },
+  "author": "Ben Garvey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bengarvey/tap-fake-users/issues"
+  },
+  "homepage": "https://github.com/bengarvey/tap-fake-users/#readme",
+  "dependencies": {
+    "chance": "^1.0.4"
+  }
+}
