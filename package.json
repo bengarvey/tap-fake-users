@@ -1,6 +1,6 @@
 {
   "name": "tap-fake-users",
-  "version": "1.0.0",1
+  "version": "1.0.0",
   "description": "Singer.io tap for generating fake user data. For test purposes only!",
   "main": "tap-fake-users.js",
   "scripts": {
